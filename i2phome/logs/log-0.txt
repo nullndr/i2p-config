@@ -1,2 +1,0 @@
-Aug 28, 2022, 6:11:31 PM INFO  [JobQueue 4/5] networkdb.reseed.ReseedChecker: Downloading peer router information for a new I2P installation
-Aug 28, 2022, 6:11:31 PM INFO  [Addressbook ] .naming.BlockfileNamingService: Migrating 61 hosts from /i2p/.i2p/hosts.txt to new hosts database
