@@ -1,0 +1,106 @@
+Setting up new user directory /i2p/.i2p
+Created /i2p/.i2p/eepsite
+Created /i2p/.i2p/eepsite/cgi-bin
+Copied /i2p/eepsite/jetty-rewrite.xml
+Copied /i2p/eepsite/jetty-jmx.xml
+Created /i2p/.i2p/eepsite/webapps
+Created /i2p/.i2p/eepsite/logs
+Copied /i2p/eepsite/jetty.xml
+Created /i2p/.i2p/eepsite/docroot
+Copied /i2p/eepsite/docroot/robots.txt
+Created /i2p/.i2p/eepsite/docroot/help
+Copied /i2p/eepsite/docroot/help/index_sv.html
+Copied /i2p/eepsite/docroot/help/index_ar.html
+Copied /i2p/eepsite/docroot/help/index_az.html
+Copied /i2p/eepsite/docroot/help/index_ru.html
+Copied /i2p/eepsite/docroot/help/index_zh.html
+Copied /i2p/eepsite/docroot/help/index_pl.html
+Created /i2p/.i2p/eepsite/docroot/help/lib
+Copied /i2p/eepsite/docroot/help/lib/fr.png
+Copied /i2p/eepsite/docroot/help/lib/pagebg.png
+Copied /i2p/eepsite/docroot/help/lib/it.png
+Copied /i2p/eepsite/docroot/help/lib/ua.png
+Copied /i2p/eepsite/docroot/help/lib/pt.png
+Copied /i2p/eepsite/docroot/help/lib/tr.png
+Copied /i2p/eepsite/docroot/help/lib/jetty-dir.css
+Copied /i2p/eepsite/docroot/help/lib/id.png
+Copied /i2p/eepsite/docroot/help/lib/jp.png
+Copied /i2p/eepsite/docroot/help/lib/lang_ar.png
+Copied /i2p/eepsite/docroot/help/lib/itoopie.png
+Copied /i2p/eepsite/docroot/help/lib/nl.png
+Copied /i2p/eepsite/docroot/help/lib/az.png
+Copied /i2p/eepsite/docroot/help/lib/es.png
+Copied /i2p/eepsite/docroot/help/lib/cn.png
+Copied /i2p/eepsite/docroot/help/lib/eepsite_zh.css
+Copied /i2p/eepsite/docroot/help/lib/se.png
+Copied /i2p/eepsite/docroot/help/lib/brown.png
+Copied /i2p/eepsite/docroot/help/lib/hu.png
+Copied /i2p/eepsite/docroot/help/lib/de.png
+Copied /i2p/eepsite/docroot/help/lib/ro.png
+Copied /i2p/eepsite/docroot/help/lib/us.png
+Copied /i2p/eepsite/docroot/help/lib/eepsite.css
+Copied /i2p/eepsite/docroot/help/lib/pl.png
+Copied /i2p/eepsite/docroot/help/lib/gr.png
+Copied /i2p/eepsite/docroot/help/lib/ir.png
+Copied /i2p/eepsite/docroot/help/lib/h2bg.png
+Copied /i2p/eepsite/docroot/help/lib/ru.png
+Created /i2p/.i2p/eepsite/docroot/help/lib/resources
+Copied /i2p/eepsite/docroot/help/lib/resources/file.png
+Copied /i2p/eepsite/docroot/help/lib/resources/pdf.png
+Copied /i2p/eepsite/docroot/help/lib/resources/flash.png
+Copied /i2p/eepsite/docroot/help/lib/resources/folder_32x32.png
+Copied /i2p/eepsite/docroot/help/lib/resources/zip.png
+Copied /i2p/eepsite/docroot/help/lib/resources/folder.png
+Copied /i2p/eepsite/docroot/help/lib/resources/word.png
+Copied /i2p/eepsite/docroot/help/lib/resources/folder_open.png
+Copied /i2p/eepsite/docroot/help/lib/resources/image.png
+Copied /i2p/eepsite/docroot/help/lib/resources/iso.png
+Copied /i2p/eepsite/docroot/help/lib/resources/video.png
+Copied /i2p/eepsite/docroot/help/lib/resources/text.png
+Copied /i2p/eepsite/docroot/help/lib/resources/audio.png
+Copied /i2p/eepsite/docroot/help/lib/resources/playlist.png
+Copied /i2p/eepsite/docroot/help/index_ro.html
+Copied /i2p/eepsite/docroot/help/index_es.html
+Copied /i2p/eepsite/docroot/help/index_it.html
+Copied /i2p/eepsite/docroot/help/index_fr.html
+Copied /i2p/eepsite/docroot/help/index_nl.html
+Copied /i2p/eepsite/docroot/help/index_hu.html
+Copied /i2p/eepsite/docroot/help/index_pt.html
+Copied /i2p/eepsite/docroot/help/index_uk.html
+Copied /i2p/eepsite/docroot/help/index_fa.html
+Copied /i2p/eepsite/docroot/help/index_in.html
+Copied /i2p/eepsite/docroot/help/index_el.html
+Copied /i2p/eepsite/docroot/help/index_tr.html
+Copied /i2p/eepsite/docroot/help/pagetemplate.html
+Copied /i2p/eepsite/docroot/help/index.html
+Copied /i2p/eepsite/docroot/help/index_de.html
+Copied /i2p/eepsite/docroot/favicon.ico
+Copied /i2p/eepsite/docroot/index.html
+Created /i2p/.i2p/eepsite/etc
+Copied /i2p/eepsite/etc/realm.properties
+Copied /i2p/eepsite/etc/webdefault.xml
+Created /i2p/.i2p/eepsite/contexts
+Copied /i2p/eepsite/contexts/cgi-context.xml
+Copied /i2p/eepsite/contexts/base-context.xml
+Copied /i2p/eepsite/jetty-ssl.xml
+Copied /i2p/hosts.txt
+Copied /i2p/i2psnark.config
+Copied /i2p/i2ptunnel.config
+Copied /i2p/router.config
+Copied /i2p/eepsite/jetty.xml with modifications
+Copied /i2p/eepsite/jetty-ssl.xml with modifications
+Copied /i2p/eepsite/contexts/base-context.xml with modifications
+Copied /i2p/eepsite/contexts/cgi-context.xml with modifications
+Copied /i2p/clients.config with modifications
+Successfully copied data files to new user directory /i2p/.i2p
+INFO: Native CPUID library libjcpuid-x86-linux.so loaded from resource
+INFO: Loaded library: jar:file:/i2p/lib/jbigi.jar!/libjbigi-linux-coreibwl_64.so
+INFO: Native BigInteger library libjbigi-linux-coreibwl_64.so loaded from resource
+Reseed start
+Reseeding from https://banana.incognet.io/i2pseeds.su3?netid=2
+INFO: 100 files extracted to /tmp/i2p-suBlhjXG.tmp/reseeds-749465008
+Reseed got 100 router infos from https://banana.incognet.io/i2pseeds.su3?netid=2 with 0 errors
+Reseeding from https://reseed.i2pgit.org/i2pseeds.su3?netid=2
+INFO: 77 files extracted to /tmp/i2p-suBlhjXG.tmp/reseeds-1012060101
+Reseed got 77 router infos from https://reseed.i2pgit.org/i2pseeds.su3?netid=2 with 0 errors
+Reseed successful, fetched 177 router infos

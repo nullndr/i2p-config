@@ -3,11 +3,12 @@ services:
   i2p:
     image: geti2p/i2p
     container_name: i2p_node
+    restart: unless-stopped
     environment:
       - JVM_XMX=1024m
     volumes:
-      - i2phome:/i2p/.i2p
-      - i2psnark:/i2psnark
+      - ./i2phome:/i2p/.i2p
+      - ./i2psnark:/i2psnark
     ports:
       - 4444:4444
       - 6668:6668
