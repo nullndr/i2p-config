@@ -1,17 +1,16 @@
 version: '3.9'
 services:
   i2p:
-    image: geti2p/i2p
+    image: divax/i2p:current
     container_name: i2p_node
     restart: unless-stopped
     environment:
-      - JVM_XMX=1024m
+      - ENABLE_HTTPPROXY=1
+      - ENABLE_SOCKSPROXY=1
     volumes:
       - ./i2pconfig:/i2p/.i2p
       - ./i2psnark:/i2psnark
     ports:
-      - 4444:4444
-      - 6668:6668
-      - 7657:7657 
-      - 54321:12345 
-      - 54321:12345/udp
+      - 7070:7070
+      - 4444:4444 
+      - 4445:4445
