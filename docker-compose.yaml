@@ -7,7 +7,7 @@ services:
     environment:
       - JVM_XMX=1024m
     volumes:
-      - ./i2phome:/i2p/.i2p
+      - ./i2pconfig:/i2p/.i2p
       - ./i2psnark:/i2psnark
     ports:
       - 4444:4444
